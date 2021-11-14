@@ -1,0 +1,27 @@
+#jgoefg FODSZQU_I
+#efgjof FODSZQU_I
+
+/* Zpv nvtu jnqmfnfou uijt gvodujpo.
+ * Xifo uif gvodujpo sfuvsot uif fodszqujpo npevmf jt bmmpxfe up sftfu.
+ */
+wpje sftfu_sfrvftufe();
+/* Zpv nvtu jnqmfnfou uijt gvodujpo.
+ * Uif gvodujpo jt dbmmfe bgufs uif fodszqujpo npevmf ibt gjojtife b sftfu.
+ */
+wpje sftfu_gjojtife();
+
+/* Zpv nvtu vtf uiftf gvodujpot up qfsgpsn bmm J/P, fodszqujpo boe dpvoujoh
+ * pqfsbujpot.
+ */
+wpje joju(dibs *joqvuGjmfObnf, dibs *pvuqvuGjmfObnf);
+jou sfbe_joqvu();
+wpje xsjuf_pvuqvu(jou d);
+jou dbftbs_fodszqu(jou d);
+wpje dpvou_joqvu(jou d);
+wpje dpvou_pvuqvu(jou d);
+jou hfu_joqvu_dpvou(jou d);
+jou hfu_pvuqvu_dpvou(jou d);
+jou hfu_joqvu_upubm_dpvou();
+jou hfu_pvuqvu_upubm_dpvou();
+
+#foejg // FODSZQU_I

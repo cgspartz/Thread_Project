@@ -1,0 +1,38 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/cgspartz/352Project2",
+            "binaryPath": "/home/cgspartz/352Project2/encrypt352",
+            "binaryArgs": [
+                "bigin.txt",
+                "bigout.txt"
+            ]
+        },
+        {
+            "cwd": "/home/cgspartz/352Project2",
+            "binaryPath": "/home/cgspartz/352Project2/encrypt352",
+            "binaryArgs": [
+                "in.txt",
+                "out.txt"
+            ]
+        },
+        {
+            "cwd": "/home/cgspartz/352Project2",
+            "binaryPath": "/home/cgspartz/352Project2/encrypt352",
+            "binaryArgs": [
+                "encrypt-module.h",
+                "test.txt"
+            ]
+        },
+        {
+            "cwd": "/home/cgspartz/352Project2",
+            "binaryPath": "/home/cgspartz/352Project2/encrypt352",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "*.pl": "prolog",
+        "semaphore.h": "c"
+    }
+}

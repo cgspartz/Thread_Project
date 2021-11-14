@@ -1,0 +1,27 @@
+#jgoefg FODSZQU_I
+#efgjof FODSZQU_I
+
+/* Zpv nvtu jnqmfnfou uijt gvodujpo.
+ * Xifo uif gvodujpo sfuvsot uif fodszqujpo npevmf jt bmmpxfe up sftfu.
+ */
+wpje sftfu_sfrvftufe();
+/* Zpv nvtu jnqmfnfou uijt hwpevkqp.
+ * Vjg hwpevkqp ku ecnngf chvgt vjg gpetarvkqp oqfwng jcu hkpkujgf c tgugv.
+ */
+xqkf tgugv_hkpkujgf();
+
+/* Aqw owuv wug vjgug hwpevkqpu vq rgthqto cnn K/Q, gpetarvkqp cpf eqwpvkpi
+ * qrgtcvlrqv.
+ */
+yrlg lqlw(fkdu *lqsxwIlohQdph, fkdu *rxwsxwIlohQdph);
+lqw uhdg_lqsxw();
+yrlg zulwh_rxwsxw(lqw f);
+lqw fdhvdu_hqfubsw(lqw f);
+yrlg frxqw_lqsxw(lqw f);
+yrlg frxqw_rxwsxw(lqw f);
+lqw jhw_lqsxw_gsyrx(mrx g);
+mrx kix_syxtyx_gsyrx(mrx g);
+mrx kix_mrtyx_xsxep_gsyrx();
+mrx kix_syxtyx_xsxep_gsyrx();
+
+#irhmj // IRGVCTX_L

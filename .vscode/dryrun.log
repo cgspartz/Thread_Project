@@ -1,0 +1,5 @@
+make all --dry-run --keep-going --print-directory
+make: Entering directory '/home/cgspartz/352Project2'
+gcc -o encrypt352 project2Spartz.o encrypt-module.o  -lpthread
+make: Leaving directory '/home/cgspartz/352Project2'
+ 
